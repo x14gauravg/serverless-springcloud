@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: pluralsight-springcloud-m3-task
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Gaurav
+Implementation-Vendor-Id: pluralsight.demo
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/pluralsight-
+ springcloud-m3-task/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
